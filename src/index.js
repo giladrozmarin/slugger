@@ -8,5 +8,5 @@ const slug = (...strings) => {
   
   module.exports = { slug };
   
-  console.log(slug("cleopatra", "viva la viva   ", "hello from tel aviva"));
+  console.log(slug("cleopatra!", "viva la viva   ", "hello from tel aviva"));
   
